@@ -1,0 +1,24 @@
+{
+  "name": "neuralnet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mnist": "^1.0.5",
+    "synaptic": "^1.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Haris87/neuralnet.git"
+  },
+  "keywords": [
+    "neural",
+    "network"
+  ],
+  "author": "Haris87",
+  "license": "ISC"
+}
